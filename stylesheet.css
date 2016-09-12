@@ -1,0 +1,64 @@
+body {
+    font: 18px Arial, sans-serif, white;
+    background: url(background.png);
+    color: antiquewhite;
+    margin-left: 40px;
+}
+ul#info{
+    list-style-type: none;
+    font-size: small;
+    font-style: italic;
+}
+
+h1 {
+    margin: auto;
+    padding: inherit;
+    font-size: 38px;
+    font-weight: bold;
+    letter-spacing: calc;
+
+    color: antiquewhite;
+}
+#pic{
+    float: right;
+    margin-bottom: auto;
+}
+#space{
+      Width: 75%;
+      margin: auto;
+    }
+#area{
+  margin: 75 auto auto auto;
+  overflow: auto;
+}
+
+h3 {
+    font-size: 32px;
+    color: yellow;
+    border-bottom: solid 2px white;
+
+
+}
+p#date{
+    padding-top: 0;
+    font-size: medium;
+    color: antiquewhite;
+    margin-top: 0;
+}
+h5 {
+    font-size: 18px;
+    margin-top: 0;
+
+
+
+}
+h4{
+    font-size: 20px;
+    color: crimson;
+
+}
+h4{
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
