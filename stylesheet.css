@@ -3,11 +3,14 @@ body {
     background: url(background.png);
     color: antiquewhite;
     margin-left: 40px;
+
 }
 ul#info{
     list-style-type: none;
     font-size: small;
     font-style: italic;
+
+
 }
 
 h1 {
@@ -16,12 +19,23 @@ h1 {
     font-size: 38px;
     font-weight: bold;
     letter-spacing: calc;
-
     color: antiquewhite;
+  }
+.algin{
+  text-align: center;
+
 }
-#pic{
+.center{
+  display: block;
+  margin: auto;
+
+}
+.pic{
     float: right;
     margin-bottom: auto;
+
+
+
 }
 #space{
       Width: 75%;
@@ -30,6 +44,8 @@ h1 {
 #area{
   margin: 75 auto auto auto;
   overflow: auto;
+
+
 }
 
 h3 {
@@ -44,20 +60,20 @@ p#date{
     font-size: medium;
     color: antiquewhite;
     margin-top: 0;
+
 }
 h5 {
     font-size: 18px;
     margin-top: 0;
-
-
 
 }
 h4{
     font-size: 20px;
     color: crimson;
 
+
 }
-h4{
+    h4{
     margin-top: 0px;
     margin-bottom: 0px;
 
@@ -65,4 +81,5 @@ h4{
 p#list{
 font-size: 18px
 margin-top: 0;
+
 }
